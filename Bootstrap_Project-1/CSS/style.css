@@ -1,0 +1,9 @@
+.navbar .navbar-nav .nav-link {
+    font-weight: 400 !important;
+    color: rgba(255, 255, 255, 1);
+}
+
+.carousel .carousel-inner img{
+    height: 60vmin !important;
+    object-fit: cover;
+}
